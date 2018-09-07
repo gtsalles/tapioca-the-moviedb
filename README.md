@@ -7,10 +7,10 @@ pip install tapioca-the-moviedb
 
 ## Documentation
 ``` python
-from tapioca_the_moviedb import TheMoviedb
+from tapioca_the_moviedb import TheMovieDB
 
 
-api = TheMoviedb()
+api = TheMoviedDB(api_key='your-api-key-here')
 
 ```
 
